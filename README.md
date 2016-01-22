@@ -1,0 +1,3 @@
+# pseudo-shell-penguin
+A Pseudo Shell, UNIX/MSDOS inspired.
+Copyright 2016 by Ben Song... If I finish...
